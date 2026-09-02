@@ -11,8 +11,9 @@
 
 为了保障日常出海、AI 生产力（ChatGPT/Claude 3.5）及 4K 影音体验，推荐使用官方认证的极速专线节点：
 
-* 🌐 **官方永久导航发布页**：[https://113889.xyz/](https://113889.xyz/)
-* 🚀 **专属 5 折注册直达通道**：[点击进入官网注册](https://cn.gtasx.net/#/register?code=N8Nf0dyY)
+* 🌐 **官方永久网址**：[https://www.gtasx.net/](https://www.gtasx.net/)
+* 🚀 **免翻 5 折注册直达通道**：[https://cn.gtasx.net/#/register?code=N8Nf0dyY](https://cn.gtasx.net/#/register?code=N8Nf0dyY)
+* 📡 **官方永久导航发布页**：[https://113889.xyz/](https://113889.xyz/)
 * 🎁 **专属半价优惠码**：`GTA888`（结账时输入立享 5 折优惠）
 
 ### 🌟 核心特色：
@@ -36,13 +37,14 @@
 
 ## 🛠️ 小白 3 步极速上手流程
 
-1. **第一步**：进入 [官方注册入口](https://cn.gtasx.net/#/register?code=N8Nf0dyY) 注册账号，结账时输入优惠券 `GTA888` 激活半价。
+1. **第一步**：进入 [官方免翻通道](https://cn.gtasx.net/#/register?code=N8Nf0dyY) 注册账号，结账时输入优惠券 `GTA888` 激活半价。
 2. **第二步**：在 [官方发布页 (113889.xyz)](https://113889.xyz/) 下载对应设备的客户端。
 3. **第三步**：在官网用户中心复制订阅链接，点击“一键导入到客户端”，开启代理即可畅游全球。
 
 ---
 
-## 📌 防失联与官方交流
+## 📌 官方通道与防失联
 
-- 永久导航站：[https://113889.xyz/](https://113889.xyz/) （建议按 `Ctrl + D` 收藏）
-- 官方入口：[https://cn.gtasx.net/#/register?code=N8Nf0dyY](https://cn.gtasx.net/#/register?code=N8Nf0dyY)
+- 官方永久主站：[https://www.gtasx.net/](https://www.gtasx.net/)
+- 免翻高速直达：[https://cn.gtasx.net/#/register?code=N8Nf0dyY](https://cn.gtasx.net/#/register?code=N8Nf0dyY)
+- 永久发布页：[https://113889.xyz/](https://113889.xyz/) （建议按 `Ctrl + D` 收藏）
